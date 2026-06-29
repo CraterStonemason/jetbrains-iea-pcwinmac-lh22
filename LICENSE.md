@@ -1,4 +1,4 @@
-# 
+# VIP JetBrains IntelliJ IDEA scripts pour Mac OS | Intelligent JetBrains IntelliJ IDEA scripts pour PC Windows. Avec support Gitflow et support GraphQL — optimisé pour des performances maximales sur chaque plateforme.
 
 
 
